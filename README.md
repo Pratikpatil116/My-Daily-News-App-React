@@ -1,0 +1,3 @@
+#⭕ My-Daily-News-App-React ⭕</br>
+My Daily News App created using React and NewsAPI</br>
+My Daily news App is a news app which can be used for grab a daily and latest news .If you are interested in news this app really make you happy...
